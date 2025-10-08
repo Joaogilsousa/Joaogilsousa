@@ -1,5 +1,5 @@
 ## About Me  👨‍💻
-I'm a **Software Developer** who enjoys turning complex problems into simple, efficient, and scalable solutions.  
+I'm a **Software Engineer** who enjoys turning complex problems into simple, efficient, and scalable solutions.  
 I’m constantly exploring new technologies, improving my craft, and learning from every project I work on.  
 
 
