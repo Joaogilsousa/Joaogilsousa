@@ -38,10 +38,3 @@ I’m constantly exploring new technologies, improving my craft, and learning fr
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PlantUML](https://img.shields.io/badge/PlantUML-000000?style=for-the-badge&logo=plantuml&logoColor=white)
 ![Visual Paradigm](https://img.shields.io/badge/Visual%20Paradigm-005C84?style=for-the-badge&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joaogilsousa&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaogilsousa&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Joaogilsousa&theme=tokyonight)
